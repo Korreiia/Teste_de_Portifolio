@@ -1,0 +1,83 @@
+body{
+    background: rgb(255, 255, 255);
+}
+
+div{
+    height: 880px;
+}
+
+h1{
+    padding-left: 80px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+hr{
+    width: 20%;
+}
+
+.alink{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(76, 78, 212);
+    text-decoration: none;
+    margin-left: 40px;
+    position: relative;
+    left: 1000px;
+    bottom: 80px;
+}
+
+.desenho{
+    width: 500px;
+    height: 700px;
+    position: relative;
+    left: 200px;
+}
+
+.pt{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    margin: auto;
+    text-align: center;
+    left: 300px;
+    bottom: 650px;
+}
+
+pre{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    text-align: center;
+    left: 300px;
+    bottom: 650px;
+    margin: auto;
+    width: 50%;
+}
+
+.icon{
+    position: relative;
+    left: 900px;
+    bottom: 600px;
+}
+
+.iconi{
+    width: 80px;
+    height: 80px;
+}
+
+.fb{
+    width: 50%;
+}
+
+.f{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
